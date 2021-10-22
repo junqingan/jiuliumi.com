@@ -18,8 +18,8 @@
     "validity_period_from": "2021-07-01 00:00:00",
     "validity_period_to": "2022-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
-    "tb_item_id":"",
-    "request_id": "tong_koubei_202107280026",
+    "tb_item_id":"652263451578",
+    "request_id": "tong_koubei_202110190026",
     "sales_period_end": "2022-12-31 23:59:59",
     "sales_period_start": "2021-07-28 00:00:00",
     "verify_enable_times": 1,
@@ -100,7 +100,7 @@
         "week_day": ["1", "2", "3", "4", "5", "6", "7"]
     }],
     "buy_limit_dto_list": [{
-        "limit_num": 1,
+        "limit_num": 30,
         "limit_type": "BUY_LIMIT_PER_ORDER_MAX"
     }],
     "buy_tips_template": {

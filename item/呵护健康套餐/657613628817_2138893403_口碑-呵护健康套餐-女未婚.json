@@ -1,52 +1,96 @@
 {
     "industry": "SERV_INDUSTRY",
-    "origin_price": 142800,
-    "title": "【女未婚】瑞慈体检 父母银卡套餐 瑞慈全国门店通用 在线预约",
+    "origin_price": 269300,
+    "title": "【女未婚】 瑞慈体检 呵护健康套餐 瑞慈全国门店通用 在线预约",
     "inventory": 99999,
-    "price": 68800,
+    "price": 135900,
     "merchant_pid": "2088701141395825",
     "operator_type": "ISV",
-    "category_id": "2020062900468228",
-    "cover": "A*sdZvRJtotz4AAAAAAAAAAAAADsN1AQ",
-    "picture_details": ["A*D9mVQ47HTd8AAAAAAAAAAAAADsN1AQ", "A*ObkoSrxG3qgAAAAAAAAAAAAADsN1AQ", "A*1xu7R5hfJvMAAAAAAAAAAAAADsN1AQ"],
-    "taobao_cover": "A*zHIDR75L3FEAAAAAAAAAAAAADsN1AQ",
+    "category_id": "2020062900466490",
+    "cover": "A*R0agSY45yFoAAAAAAAAAAAAADsN1AQ",
+    "picture_details": [ "A*bNajS6dhHtoAAAAAAAAAAAAADsN1AQ", "A*0V2ZSZHSXS0AAAAAAAAAAAAADsN1AQ","A*1xu7R5hfJvMAAAAAAAAAAAAADsN1AQ"],
+    "taobao_cover": "A*00eLTYYIya4AAAAAAAAAAAAADsN1AQ",
     "display_channels": "ALL",
     "forbid_reverse": false,
     "test_item": false,
     "ticket_display_mode": "NO_DISPLAY_CODE",
     "valid_period": 360,
-    "validity_period_from": "2021-07-01 00:00:00",
+    "validity_period_from": "2021-10-10 00:00:00",
     "validity_period_to": "2022-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
-    "tb_item_id":"650369521162",
-    "request_id": "tong_koubei_202110181327",
+    "tb_item_id":"657613628817",
+    "request_id": "tong_koubei_202110221528",
     "sales_period_end": "2022-12-31 23:59:59",
-    "sales_period_start": "2021-07-13 00:00:00",
+    "sales_period_start": "2021-10-20 00:00:00",
     "verify_enable_times": 1,
     "verify_frequency": "single",
     "shop_ids": ["2021081000077000000025604094","2021042000077000000019535640", "2021052700077000000020997650", "2021052700077000000020995913", "2021052700077000000020999521", "2021052700077000000020995924", "2021052700077000000020999598", "2021052700077000000020996004", "2021052700077000000020996065", "2021052700077000000020996102", "2021052700077000000020999684", "2021052700077000000021002733", "2021052700077000000021002739", "2021052700077000000021002753", "2021052700077000000020999723", "2021052700077000000021002970", "2021052700077000000021004537", "2021052700077000000021032054", "2021052700077000000021032061", "2021052700077000000021004561", "2021052700077000000021032097", "2021052700077000000021004886", "2021052700077000000021003357", "2021052700077000000021005101", "2021052700077000000021003845", "2021052700077000000021003865", "2021052700077000000021032947", "2021052700077000000021003880", "2021052700077000000021003895", "2021052700077000000021032984", "2021052700077000000021005546", "2021052700077000000021005551", "2021052700077000000021005562", "2021052800077000000021058421", "2021052800077000000021058428", "2021052800077000000021058434", "2021052800077000000021058431", "2021052800077000000021058491", "2021052800077000000021057052", "2021052800077000000021057046", "2021052800077000000021057123", "2021052800077000000021059802", "2021052800077000000021058657", "2021052800077000000021057247", "2021052800077000000021059879", "2021052800077000000021057266", "2021062900077000000023631272", "2021062900077000000023630003", "2021062900077000000023628735", "2021062900077000000023630051", "2021062900077000000023631418", "2021062900077000000023138354", "2021062900077000000023138408"],
     "service_package_dto": {
         "explanation": null,
-        "service_package_name": "【女未婚】瑞慈体检 父母银卡套餐 瑞慈全国门店通用 在线预约",
-        "price": 142800,
+        "service_package_name": "【女未婚】 瑞慈体检 呵护健康套餐 瑞慈全国门店通用 在线预约",
+        "price": 269300,
         "service_category_id": "1020210202001001001",
         "has_service_unit": false,
         "package_content_list": [{
-            "title": "父母银卡套餐【女未婚】",
+            "title": "呵护健康套餐 【女未婚】",
             "content_group_list": [{
-                "content": "父母银卡套餐【女未婚】",
+                "content": "呵护健康套餐 【女未婚】",
                 "num": "1",
-                "price": 142800,
+                "price": 269300,
                 "unit": "份"
             }]
         }],
         "graphic_text_list": [{
             "content": "",
-            "django_id": "A*SEgRTIhcBSwAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*p1coTaouayYAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
-            "django_id": "A*whraTr-98-AAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*6v7YSIuhHnoAAAAAAAAAAAAADsN1AQ",
+            "type": "IMAGE"
+        },{
+            "content": "",
+            "django_id": "A*xA7zSq56H4kAAAAAAAAAAAAADsN1AQ",
+            "type": "IMAGE"
+        },{
+            "content": "",
+            "django_id": "A*C9WOTLh1w2QAAAAAAAAAAAAADsN1AQ",
+            "type": "IMAGE"
+        },{
+            "content": "",
+            "django_id": "A*qrjfSK2OKN8AAAAAAAAAAAAADsN1AQ",
+            "type": "IMAGE"
+        },{
+            "content": "",
+            "django_id": "A*2Ze6QZuMFQcAAAAAAAAAAAAADsN1AQ",
+            "type": "IMAGE"
+        },{
+            "content": "",
+            "django_id": "A*0-ATT6YKJVQAAAAAAAAAAAAADsN1AQ",
+            "type": "IMAGE"
+        },{
+            "content": "",
+            "django_id": "A*Rg1LQYCF0k4AAAAAAAAAAAAADsN1AQ",
+            "type": "IMAGE"
+        },{
+            "content": "",
+            "django_id": "A*Em0aQqiw-AsAAAAAAAAAAAAADsN1AQ",
+            "type": "IMAGE"
+        },{
+            "content": "",
+            "django_id": "A*3-eLTZWCYsgAAAAAAAAAAAAADsN1AQ",
+            "type": "IMAGE"
+        },{
+            "content": "",
+            "django_id": "A*UmSxRbiOOXAAAAAAAAAAAAAADsN1AQ",
+            "type": "IMAGE"
+        },{
+            "content": "",
+            "django_id": "A*OBDkRaELPqUAAAAAAAAAAAAADsN1AQ",
+            "type": "IMAGE"
+        },{
+            "content": "",
+            "django_id": "A*SEgRTIhcBSwAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
