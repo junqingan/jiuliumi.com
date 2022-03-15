@@ -1,15 +1,15 @@
 {
     "industry": "SERV_INDUSTRY",
     "origin_price": 227200,
-    "title": "【女】 瑞慈健康佳选深度体检 在线预约 53店通用",
-    "inventory": 89414,
+    "title": "【男】 瑞慈健康佳选深度体检 在线预约 53店通用",
+    "inventory": 94076,
     "price": 155900,
     "merchant_pid": "2088701141395825",
     "operator_type": "ISV",
     "category_id": "2020062900466490",
-    "cover": "A*HHosTY6YqdcAAAAAAAAAAAAADsN1AQ",
+    "cover": "A*U0sfRqXvMeYAAAAAAAAAAAAADsN1AQ",
     "picture_details": ["A*bNajS6dhHtoAAAAAAAAAAAAADsN1AQ", "A*--JFSpbgxFwAAAAAAAAAAAAADsN1AQ"],
-    "taobao_cover": "A*MQhiQaRj-icAAAAAAAAAAAAADsN1AQ",
+    "taobao_cover": "A*yKaiTLFDgOMAAAAAAAAAAAAADsN1AQ",
     "display_channels": "ALL",
     "forbid_reverse": false,
     "test_item": false,
@@ -18,8 +18,8 @@
     "validity_period_from": "2021-08-01 00:00:00",
     "validity_period_to": "2022-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
-    "tb_item_id":"653050858659",
-    "request_id": "tong_koubei_202202243001",
+    "tb_item_id":"653050850597",
+    "request_id": "tong_koubei_20220315143201",
     "sales_period_end": "2022-12-31 23:59:59",
     "sales_period_start": "2021-08-12 00:00:00",
     "verify_enable_times": 1,
@@ -27,38 +27,34 @@
     "shop_ids": ["2021081000077000000025604094","2021042000077000000019535640", "2021052700077000000020997650", "2021052700077000000020995913", "2021052700077000000020999521", "2021052700077000000020995924", "2021052700077000000020999598", "2021052700077000000020996004", "2021052700077000000020996065", "2021052700077000000020996102", "2021052700077000000020999684", "2021052700077000000021002733", "2021052700077000000021002739", "2021052700077000000021002753", "2021052700077000000020999723", "2021052700077000000021002970", "2021052700077000000021004537", "2021052700077000000021032054", "2021052700077000000021032061", "2021052700077000000021004561", "2021052700077000000021032097", "2021052700077000000021004886", "2021052700077000000021003357", "2021052700077000000021005101", "2021052700077000000021003845", "2021052700077000000021003865", "2021052700077000000021032947", "2021052700077000000021003880", "2021052700077000000021003895", "2021052700077000000021032984", "2021052700077000000021005546", "2021052700077000000021005551", "2021052700077000000021005562", "2021052800077000000021058421", "2021052800077000000021058428", "2021052800077000000021058434", "2021052800077000000021058431", "2021052800077000000021058491", "2021052800077000000021057052", "2021052800077000000021057046", "2021052800077000000021057123", "2021052800077000000021059802", "2021052800077000000021058657", "2021052800077000000021057247", "2021052800077000000021059879", "2021052800077000000021057266", "2021062900077000000023631272", "2021062900077000000023630003", "2021062900077000000023628735", "2021062900077000000023630051", "2021062900077000000023631418", "2021062900077000000023138354", "2021062900077000000023138408"],
     "service_package_dto": {
         "explanation": null,
-        "service_package_name": "【女】  瑞慈健康佳选深度体检  在线预约 53店通用",
+        "service_package_name": "【男】 瑞慈健康佳选深度体检  在线预约 53店通用",
         "price": 227200,
         "service_category_id": "1020210202001001001",
         "has_service_unit": false,
         "package_content_list": [{
-            "title": "健康佳选深度体检套餐 【女】",
+            "title": "健康佳选深度体检套餐 【男】",
             "content_group_list": [{
-                "content": "健康佳选深度体检套餐 【女】",
+                "content": "健康佳选深度体检套餐 【男】",
                 "num": "1",
                 "price": 227200,
                 "unit": "份"
             }]
         }],
-       "graphic_text_list": [{
+        "graphic_text_list": [{
             "content": "",
-            "django_id": "A*x1NxTa-lH_oAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*vKo7RYbA6vIAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
-            "django_id": "A*AoWvSYNwkWoAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*UlaxQ7EylEwAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
-            "django_id": "A*-xxrQrvSbUUAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*e19fSo0eUF0AAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
-            "django_id": "A*A7qDTaCBywwAAAAAAAAAAAAADsN1AQ",
-            "type": "IMAGE"
-        },{
-            "content": "",
-            "django_id": "A*J3AcTI5jiFQAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*DWXcR7r0swoAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
