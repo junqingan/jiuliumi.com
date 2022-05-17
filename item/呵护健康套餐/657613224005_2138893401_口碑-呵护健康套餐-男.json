@@ -7,9 +7,9 @@
     "merchant_pid": "2088701141395825",
     "operator_type": "ISV",
     "category_id": "2020062900466490",
-    "cover": "A*R0agSY45yFoAAAAAAAAAAAAADsN1AQ",
-    "picture_details": [ "A*bNajS6dhHtoAAAAAAAAAAAAADsN1AQ", "A*0V2ZSZHSXS0AAAAAAAAAAAAADsN1AQ","A*1xu7R5hfJvMAAAAAAAAAAAAADsN1AQ"],
-    "taobao_cover": "A*00eLTYYIya4AAAAAAAAAAAAADsN1AQ",
+    "cover": "A*nyukQo423m8AAAAAAAAAAAAADsN1AQ",
+    "picture_details": [ "A*bNajS6dhHtoAAAAAAAAAAAAADsN1AQ", "A*DRF6R5d3MCIAAAAAAAAAAAAADsN1AQ","A*1xu7R5hfJvMAAAAAAAAAAAAADsN1AQ"],
+    "taobao_cover": "A*-V1gTaEo2q0AAAAAAAAAAAAADsN1AQ",
     "display_channels": "ALL",
     "forbid_reverse": false,
     "test_item": false,
@@ -19,7 +19,7 @@
     "validity_period_to": "2022-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"657613224005",
-    "request_id": "tong_koubei_2022022422",
+    "request_id": "tong_koubei_20220510022",
     "sales_period_end": "2022-12-31 23:59:59",
     "sales_period_start": "2021-10-20 00:00:00",
     "verify_enable_times": 1,
@@ -50,15 +50,11 @@
             "type": "IMAGE"
         },{
             "content": "",
-            "django_id": "A*xA7zSq56H4kAAAAAAAAAAAAADsN1AQ",
-            "type": "IMAGE"
-        },{
-            "content": "",
             "django_id": "A*C9WOTLh1w2QAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
-            "django_id": "A*qrjfSK2OKN8AAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*j4wfQLc7_AUAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
@@ -90,11 +86,11 @@
             "type": "IMAGE"
         },{
             "content": "",
-            "django_id": "A*QOjdRbhUjIYAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*SEgRTIhcBSwAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
-            "django_id": "A*9m65QKnqPbUAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*8s3SRqCDbZMAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
