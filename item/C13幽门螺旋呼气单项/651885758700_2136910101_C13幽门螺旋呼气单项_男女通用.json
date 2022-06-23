@@ -19,7 +19,7 @@
     "validity_period_to": "2022-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"651885758700",
-    "request_id": "tong_koubei_2022022475",
+    "request_id": "tong_koubei_2022062275",
     "sales_period_end": "2022-12-31 23:59:59",
     "sales_period_start": "2021-07-28 00:00:00",
     "verify_enable_times": 1,
@@ -42,7 +42,7 @@
         }],
         "graphic_text_list": [{
             "content": "",
-            "django_id": "A*QOjdRbhUjIYAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*SEgRTIhcBSwAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
