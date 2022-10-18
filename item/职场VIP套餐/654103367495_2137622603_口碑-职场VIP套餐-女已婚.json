@@ -7,9 +7,9 @@
     "merchant_pid": "2088701141395825",
     "operator_type": "ISV",
     "category_id": "2020062900466490",
-    "cover": "A*cK1wQoXIBU4AAAAAAAAAAAAADsN1AQ",
+    "cover": "A*gWDuTp-OvvoAAAAAAAAAAAAADsN1AQ",
     "picture_details": ["A*D9mVQ47HTd8AAAAAAAAAAAAADsN1AQ", "A*ObkoSrxG3qgAAAAAAAAAAAAADsN1AQ", "A*1xu7R5hfJvMAAAAAAAAAAAAADsN1AQ"],
-    "taobao_cover": "A*3vdnRaklLasAAAAAAAAAAAAADsN1AQ",
+    "taobao_cover": "A*ecFjQa66NFsAAAAAAAAAAAAADsN1AQ",
     "display_channels": "ALL",
     "forbid_reverse": false,
     "test_item": false,
@@ -19,7 +19,7 @@
     "validity_period_to": "2022-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"654103367495",
-    "request_id": "tong_koubei_202202246401",
+    "request_id": "tong_koubei_2022062264",
     "sales_period_end": "2022-12-31 23:59:59",
     "sales_period_start": "2021-08-20 00:00:00",
     "verify_enable_times": 1,
@@ -42,7 +42,7 @@
         }],
         "graphic_text_list": [{
             "content": "",
-            "django_id": "A*QOjdRbhUjIYAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*SEgRTIhcBSwAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
