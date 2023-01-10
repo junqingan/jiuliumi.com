@@ -1,64 +1,56 @@
 {
     "industry": "SERV_INDUSTRY",
-    "origin_price": 78000,
-    "title": "【男女通用】瑞慈体检 头颅核磁共振单项 上海、南通、深圳、南京等 在线预约",
+    "origin_price": 127300,
+    "title": "瑞慈体检 新冠康复体检套餐重点筛查版 含肺CT心脏彩超等瑞慈全国门店通用在线预约",
     "inventory": 99999,
-    "price": 55000,
+    "price": 59900,
     "merchant_pid": "2088701141395825",
     "operator_type": "ISV",
-    "category_id": "2020062900465310",
-    "cover": "A*TaqCRbdMJC0AAAAAAAAAAAAADsN1AQ",
-    "picture_details": ["A*D9mVQ47HTd8AAAAAAAAAAAAADsN1AQ", "A*ObkoSrxG3qgAAAAAAAAAAAAADsN1AQ", "A*1xu7R5hfJvMAAAAAAAAAAAAADsN1AQ"],
-    "taobao_cover": "A*ml62SYd4S9IAAAAAAAAAAAAADsN1AQ",
+    "category_id": "2020062900468228",
+    "cover": "A*VhXrRKHzps8AAAAAAAAAAAAADsN1AQ",
+    "picture_details": ["A*grtpQL5sR7gAAAAAAAAAAAAADsN1AQ", "A*2Ze6QZuMFQcAAAAAAAAAAAAADsN1AQ", "A*0-ATT6YKJVQAAAAAAAAAAAAADsN1AQ"],
+    "taobao_cover": "A*LOOaT6FTREgAAAAAAAAAAAAADsN1AQ",
     "display_channels": "ALL",
     "forbid_reverse": false,
     "test_item": false,
     "ticket_display_mode": "NO_DISPLAY_CODE",
     "valid_period": 360,
-    "validity_period_from": "2021-07-01 00:00:00",
+    "validity_period_from": "2023-01-05 00:00:00",
     "validity_period_to": "2030-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
-    "tb_item_id":"652263451578",
-    "request_id": "tong_koubei_202301102247",
+    "tb_item_id":"696123848286",
+    "request_id": "tong_koubei_202301091755",
     "sales_period_end": "2030-12-31 23:59:59",
-    "sales_period_start": "2021-07-28 00:00:00",
+    "sales_period_start": "2023-01-05 00:00:00",
     "verify_enable_times": 1,
     "verify_frequency": "single",
-    "shop_ids": ["2021052700077000000020997650","2021052700077000000021005546","2021052700077000000021005551","2021052700077000000021032097","2021052700077000000021032054","2021052700077000000021032984","2021052800077000000021059879"],
+    "shop_ids": ["2023010600077000000043912811","2023010600077000000043912708","2022112400077000000041156812","2022101900077000000039724466","2022101800077000000039685668","2022101800077000000039685637","2021081000077000000025604094","2021042000077000000019535640", "2021052700077000000020997650", "2021052700077000000020995913", "2021052700077000000020999521", "2021052700077000000020995924", "2021052700077000000020999598", "2021052700077000000020996004", "2021052700077000000020996065", "2021052700077000000020996102", "2021052700077000000020999684", "2021052700077000000021002733", "2021052700077000000021002739", "2021052700077000000021002753", "2021052700077000000020999723", "2021052700077000000021002970", "2021052700077000000021004537", "2021052700077000000021032054", "2021052700077000000021032061", "2021052700077000000021004561", "2021052700077000000021032097", "2021052700077000000021004886", "2021052700077000000021003357", "2021052700077000000021005101", "2021052700077000000021003845", "2021052700077000000021003865", "2021052700077000000021032947", "2021052700077000000021003880", "2021052700077000000021003895", "2021052700077000000021032984", "2021052700077000000021005546", "2021052700077000000021005551", "2021052700077000000021005562", "2021052800077000000021058421", "2021052800077000000021058428", "2021052800077000000021058434", "2021052800077000000021058431", "2021052800077000000021058491", "2021052800077000000021057052", "2021052800077000000021057046", "2021052800077000000021057123", "2021052800077000000021059802", "2021052800077000000021058657", "2021052800077000000021057247", "2021052800077000000021059879", "2021052800077000000021057266", "2021062900077000000023631272", "2021062900077000000023630003", "2021062900077000000023628735", "2021062900077000000023630051", "2021062900077000000023631418", "2021062900077000000023138354", "2021062900077000000023138408"],
     "service_package_dto": {
         "explanation": null,
-        "service_package_name": "【男女通用】瑞慈体检 头颅核磁共振单项 上海、南通、深圳、南京等 在线预约",
-        "price": 78000,
+        "service_package_name": "新冠康复体检套餐重点筛查版 含肺CT心脏彩超等瑞慈全国门店通用在线预约",
+        "price": 127300,
         "service_category_id": "1020210202001001001",
         "has_service_unit": false,
         "package_content_list": [{
-            "title": "头颅核磁共振单项 【男女通用】",
+            "title": "新冠康复体检套餐重点筛查版",
             "content_group_list": [{
-                "content": "头颅核磁共振单项 【男女通用】",
+                "content": "新冠康复体检套餐重点筛查版",
                 "num": "1",
-                "price": 78000,
+                "price": 127300,
                 "unit": "份"
             }]
         }],
         "graphic_text_list": [{
             "content": "",
-            "django_id": "A*SEgRTIhcBSwAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*FRJYSrOwWngAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
-            "django_id": "A*UUFdQ6aoB-3gXF5LjMi7-gAADsN1AQ",
+            "django_id": "A*ZbMhTKEBl6EAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
-            "django_id": "A*9m65QKnqPbUAAAAAAAAAAAAADsN1AQ",
-            "type": "IMAGE"
-        },{
-            "content": "",
-            "django_id": "A*Tb2FT4hpXIMAAAAAAAAAAAAADsN1AQ",
-            "type": "IMAGE"
-        },{
-            "content": "",
-            "django_id": "A*qvQrR6DFr8oAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*R5I4QYHuD7AAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         }],
         "service_flow_list": [{
@@ -100,7 +92,7 @@
         "week_day": ["1", "2", "3", "4", "5", "6", "7"]
     }],
     "buy_limit_dto_list": [{
-        "limit_num": 30,
+        "limit_num": 1,
         "limit_type": "BUY_LIMIT_PER_ORDER_MAX"
     }],
     "buy_tips_template": {
